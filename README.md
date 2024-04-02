@@ -3,3 +3,4 @@
 ### Merges the speed and accuracy of C/C++ with the simplicity of Python/Matlab/R.
 
 Might include some basic projects to get started.
+Experiment image processing.
